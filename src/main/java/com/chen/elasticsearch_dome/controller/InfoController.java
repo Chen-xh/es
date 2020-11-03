@@ -11,6 +11,7 @@ import org.springframework.web.bind.annotation.*;
 /**
  * @author CHEN
  * @date 2020/10/31  20:59
+ *
  */
 @RestController
 @CrossOrigin(value = "*", maxAge = 3600, allowCredentials = "true")
